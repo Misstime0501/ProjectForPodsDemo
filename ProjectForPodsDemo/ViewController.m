@@ -14,7 +14,9 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
+    NSLog(@"Hello world At ProjectOfPodsDemo ViewController!!");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
